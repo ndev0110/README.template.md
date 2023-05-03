@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Connect%20with%20me⬇️&animation=blink&type=transparent&color=gradient&height=40&fontSize=30"/>
+  <img src="https://capsule-render.vercel.app/api?text=Connect%20with%20me%20⬇️&animation=blink&type=transparent&color=gradient&height=40&fontSize=30"/>
 </p>
 
 <p align="center">
@@ -23,4 +23,4 @@
 
 ## Welcome to my GitHub page!
 
-My name is Nigel, a mid-career switcher, part-time student, cybersecurity enthusiat, and defender of tomorrow. I am currently learning the ropes of cybersecurity and looking to enhance my skills through various exercises and projects.
+My name is Nigel, a mid-career switcher, part-time student, Cybersecurity enthusiat, and defender of tomorrow. I am currently learning the ropes of Cybersecurity and looking to enhance my skills through various exercises and projects.
