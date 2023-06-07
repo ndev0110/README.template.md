@@ -23,5 +23,18 @@
 
 ## Welcome to my GitHub page!
 
-My name is Nigel, a mid-career switcher, part-time student, Cybersecurity enthusiat, and defender of tomorrow. I am currently learning the ropes of Cybersecurity and looking to enhance my skills through various exercises and projects.
+My name is Nigel, a mid-career switcher, part-time student, Cybersecurity enthusiat, and defender of tomorrow. Passionate about the impact of technology on society, I discovered a deep interest in Cybersecurity during my exploration of various technological fields. 
+
+This ever-changing environment particularly caught my interest as it keeps me engaged, challenges me to continuously learn, and adapt to stay ahead of the pack. 
+
+I am currently learning all the ropes of Cybersecurity and looking to enhance my skills through various labs, exercises, and projects.
+
+Below are some of the Cybersecurity projects that I have work on:
+
+## My Projects
+- [Electronic, Services & Protection Application](https://github.com/ndev01x10/ElectronicServicesProtection)
+- [Estate Feedback Managemet Software](https://github.com/ndev01x10/ApplicationEFMS)
+- [Remote Control](https://github.com/ndev01x10/RemoteControl)
+- [SOChecker (In progress)](https://github.com/ndev01x10/SOChecker)
+- [Network Design VLSM](https://github.com/ndev01x10/NetworkDesignVLSM)
 
