@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/nigelstanleydv">
   <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/ndev0110">
+<a href="https://twitter.com/ndev01x10">
   <img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 <a href="https://t.me/ndev01x10">
