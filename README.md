@@ -21,23 +21,35 @@
 
 <hr>
 
-## Welcome to my GitHub page!
+## Welcome to my GitHub Profile!
 
-My name is Nigel, a mid-career switcher, part-time student, Cybersecurity enthusiat, and defender of tomorrow. Passionate about the impact of technology on society, I discovered a deep interest in Cybersecurity during my exploration of various technological fields. 
+Passionate about the impact of technology on society, I discovered a deep interest in Cybersecurity during my exploration of various technological domains. 
 
-This ever-changing environment particularly caught my interest as it keeps me engaged, challenges me to continuously learn, and adapt to stay ahead of the pack. 
+My determination and perseverance have enabled me to make a successful transition from a non-technical role to that of a Cybersecurity Analyst.
 
-I am currently learning all the ropes of Cybersecurity and looking to enhance my skills through various labs, exercises, and projects.
+I am committed to professional growth and continuously upgrading my skills through various certifications, projects, labs, and exercises.
 
-Below are some of the Cybersecurity projects that I have work on:
+Here are some of the Cybersecurity stuff I had the pleasure to work on through my training:
 
-## 💻 My Projects
+## 📜 Certifications
+- Certified in Cybersecurity (ISC2)
+
+## 💻 Projects
 - [Electronic, Services & Protection Application](https://github.com/ndev01x10/ElectronicServicesProtection)
-- [Estate Feedback Managemet Software](https://github.com/ndev01x10/ApplicationEFMS)
+- [Estate Feedback Management Software](https://github.com/ndev01x10/ApplicationEFMS)
 - [Remote Control](https://github.com/ndev01x10/RemoteControl)
 - [SOChecker (In progress)](https://github.com/ndev01x10/SOChecker)
 - [Network Design VLSM](https://github.com/ndev01x10/NetworkDesignVLSM)
 - [Web Application Vulnerability Assessment](https://github.com/ndev01x10/WebApplicationPentestReport)
+
+## 🔬 Training Labs
+- In progress
+
+## 🛠️ Exercises
+- [Python Exercises](https://github.com/ndev01x10/PythonExercises)
+- [JavaScript Exercises](https://github.com/ndev01x10/JavaScriptExercises)
+- [Applied Cryptography Exercises](https://github.com/ndev01x10/AppliedCryptographyExercises)
+- [Bash Scripting](https://github.com/ndev01x10/TrainingScripts)
 
 ## ☑️ Tools and languages I use:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
