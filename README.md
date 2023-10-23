@@ -1,15 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Nigel!👋&animation=blinking&type=waving&color=gradient&height=200&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Nigel!👋&animation=blinking&type=waving&color=gradient&height=200&fontSize=60"/>
 </p>
 <hr>
 
 ## Welcome to my GitHub Profile!
+I am a mid-career switcher who successfully transitioned from a non-technical role to that of a Cybersecurity Analyst. Previously, I was helping digital advertising clients solve their problems, I've also spent some time in the hospitality and lifestyle industries. Although my current focus and interest lie on the defensive side of things, I'm continuously broadening my skills by learning more about offensive techniques. My goal is to become a well-rounded and versatile professional in Cybersecurity.
+
+- 🎓 I hold a Bachelors Degree in Business and Marketing from University of Sunderland
 - 🔭 I’m currently working as a Cybersecurity Analyst for an IT system integrator company in 🇸🇬
-- 🌱 I’m also studying part-time at [Singapore Polytechnic](https://www.sp.edu.sg/) taking up a Diploma in Infocomm and Digital Media (Cyber Security)
+- 🌱 I’m also studying part-time 
+- 
+-  Outside my professional pursuits, you will see me taking 
 - 👯 I’m open for work and any employment opportunities 
 - 📫 How to reach me: [nigelstanleydv@gmail.com]
 
-Through sheer determination and perseverance, I have successfully transitioned from a non-technical role to that of a Cybersecurity Analyst.
 
 I am committed to professional growth and continuously upgrading my skills through various certifications, projects, labs, and exercises.
 
@@ -43,6 +47,7 @@ Here are some of the Cybersecurity stuff I had the pleasure to work on through m
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
@@ -70,13 +75,6 @@ Did you know that Google's first tweet in 2009 was written in binary code? It ma
 <a href="https://twitter.com/ndev01x10">
   <img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-</p>
-
-<p align="center">
-Thank you!
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" height="150">
 </p>
 
 
