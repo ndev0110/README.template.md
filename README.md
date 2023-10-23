@@ -22,23 +22,19 @@
 <hr>
 
 ## Welcome to my GitHub Profile!
-- 🔭 I’m currently working as a Security Analyst for an IT system integrator company in 🇸🇬
-- 🌱 I’m also studying part-time at Singapore Polytechnic taking up a Diploma in Infocomm and Digital Media (Cyber Security)
+- 🔭 I’m currently working as a Cybersecurity Analyst for an IT system integrator company in 🇸🇬
+- 🌱 I’m also studying part-time at [Singapore Polytechnic](https://www.sp.edu.sg/) taking up a Diploma in Infocomm and Digital Media (Cyber Security)
 - 👯 I’m open for work and any employment opportunities 
-- 📫 How to reach me: nigelstanleydv@gmail.com
+- 📫 How to reach me: [nigelstanleydv@gmail.com]
 
-I 
-Passionate about the impact of technology on society, I discovered a deep interest in Cybersecurity during my exploration of various technological domains. 
-
-My determination and perseverance have enabled me to make a successful transition from a non-technical role to that of a Cybersecurity Analyst.
+Through sheer determination and perseverance, I have successfully transitioned from a non-technical role to that of a Cybersecurity Analyst.
 
 I am committed to professional growth and continuously upgrading my skills through various certifications, projects, labs, and exercises.
-
 
 Here are some of the Cybersecurity stuff I had the pleasure to work on through my training:
 
 ## 📜 Certifications
-- Certified in Cybersecurity (ISC2)
+- Google Cybersecurity Certificate
 
 ## 💻 Projects
 - [Electronic, Services & Protection Application](https://github.com/ndev01x10/ElectronicServicesProtection)
