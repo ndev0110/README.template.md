@@ -1,24 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Nigel!👋&animation=blinking&type=waving&color=gradient&height=200&fontSize=60"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Connect%20with%20me%20⬇️&animation=blink&type=transparent&color=gradient&height=40&fontSize=30&fontColor=797EF6"/>
-</p>
-
-<p align="center">
-</a>
-<a href="https://www.linkedin.com/in/nigelstanleydv">
-  <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://ndev01x10.medium.com/">
-  <img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-<a href="https://twitter.com/ndev01x10">
-  <img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-</p>
-
 <hr>
 
 ## Welcome to my GitHub Profile!
@@ -72,8 +54,26 @@ Did you know that Google's first tweet in 2009 was written in binary code? It ma
 
 <hr>
 
+
 <p align="center">
-Thank you and see you!
+  <img src="https://capsule-render.vercel.app/api?text=Connect%20with%20me%20⬇️&animation=blink&type=transparent&color=gradient&height=40&fontSize=30&fontColor=797EF6"/>
+</p>
+
+<p align="center">
+</a>
+<a href="https://www.linkedin.com/in/nigelstanleydv">
+  <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://ndev01x10.medium.com/">
+  <img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="https://twitter.com/ndev01x10">
+  <img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+Thank you!
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="250" height="150">
