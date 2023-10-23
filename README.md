@@ -11,23 +11,29 @@
 <a href="https://www.linkedin.com/in/nigelstanleydv">
   <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="https://ndev01x10.medium.com/">
+  <img height="30" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 <a href="https://twitter.com/ndev01x10">
   <img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-</a>
-<a href="https://t.me/ndev01x10">
-  <img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 </p>
 
 <hr>
 
 ## Welcome to my GitHub Profile!
+- 🔭 I’m currently working as a Security Analyst for an IT system integrator company in 🇸🇬
+- 🌱 I’m also studying part-time at Singapore Polytechnic taking up a Diploma in Infocomm and Digital Media (Cyber Security)
+- 👯 I’m open for work and any employment opportunities 
+- 📫 How to reach me: nigelstanleydv@gmail.com
 
+I 
 Passionate about the impact of technology on society, I discovered a deep interest in Cybersecurity during my exploration of various technological domains. 
 
 My determination and perseverance have enabled me to make a successful transition from a non-technical role to that of a Cybersecurity Analyst.
 
 I am committed to professional growth and continuously upgrading my skills through various certifications, projects, labs, and exercises.
+
 
 Here are some of the Cybersecurity stuff I had the pleasure to work on through my training:
 
@@ -51,11 +57,16 @@ Here are some of the Cybersecurity stuff I had the pleasure to work on through m
 - [Applied Cryptography Exercises](https://github.com/ndev01x10/AppliedCryptographyExercises)
 - [Bash Scripting](https://github.com/ndev01x10/TrainingScripts)
 
-## ☑️ Tools and languages I use:
+## ☑️ Tools, Systems, and Languages I use:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
