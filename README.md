@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-## Welcome to my GitHub Profile!
+## #whoami | $root@ndev01x10
 I am a mid-career switcher who successfully transitioned from a non-technical role to that of a Cybersecurity Analyst. Previously, I was helping digital advertising clients solve their problems, I've also spent some time in the hospitality and lifestyle industries. Although my current focus and interest lie on the defensive side of things, I'm continuously broadening my skills by learning more about offensive techniques. My goal is to become a well-rounded and versatile professional in Cybersecurity.
 
 - 🎓 I hold a Bachelors Degree in Business and Marketing from University of Sunderland
