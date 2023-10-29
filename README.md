@@ -30,7 +30,7 @@ I am committed to professional growth and continuously upgrading my skills throu
 - [Web Application Vulnerability Assessment](https://github.com/ndev01x10/WebApplicationPentestReport)
 
 ## 🔬 Training Labs
-- In progress
+<img src="https://tryhackme-badges.s3.amazonaws.com/ndev01x10.png" alt="TryHackMe">
 
 ## 🛠️ Exercises
 - [Python Exercises](https://github.com/ndev01x10/PythonExercises)
