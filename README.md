@@ -15,22 +15,21 @@ I am a mid-career professional who successfully transitioned from a non-technica
 - 📫 How to reach me: https://solo.to/ndev01x10
 
 ## 💻 Projects
+- [Secure Microsoft Windows](https://github.com/ndev01x10/SecureMicrosoftWindows)
+- [Electronic, Services & Protection-v2](https://github.com/ndev01x10/ElectronicServicesProtection-v2)
 - [Electronic, Services & Protection Application](https://github.com/ndev01x10/ElectronicServicesProtection)
 - [Estate Feedback Management Software](https://github.com/ndev01x10/ApplicationEFMS)
 - [Remote Control](https://github.com/ndev01x10/RemoteControl)
 - [SOChecker](https://github.com/ndev01x10/SOChecker)
+- [Cracker Script](https://github.com/ndev01x10/Cracker)
+- [Exploiter Script](https://github.com/ndev01x10/Exploiter)
+- [Anonymous Script](https://github.com/ndev01x10/AnonNipe)
 - [Network Design VLSM](https://github.com/ndev01x10/NetworkDesignVLSM)
 
 ## 🔬 Training Labs
 <img src="https://tryhackme-badges.s3.amazonaws.com/ndev01x10.png" alt="TryHackMe">
 
-## 🛠️ Exercises
-- [Python Exercises](https://github.com/ndev01x10/PythonExercises)
-- [JavaScript Exercises](https://github.com/ndev01x10/JavaScriptExercises)
-- [Applied Cryptography Exercises](https://github.com/ndev01x10/AppliedCryptographyExercises)
-- [Bash Scripting](https://github.com/ndev01x10/TrainingScripts)
-
-## ☑️ Tools, Systems, and Languages I use:
+## ☑️ Tools that I use:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
